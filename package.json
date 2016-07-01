@@ -17,6 +17,7 @@
     "buffer": "^4.7.0",
     "events": "^1.1.1",
     "mocha": "^2.5.3",
+    "power-assert": "^1.4.1",
     "react-addons-test-utils": "^15.1.0"
   }
 }
